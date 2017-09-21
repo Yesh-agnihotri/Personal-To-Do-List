@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "125083517638",
+    "firebase_url": "https://personal-to-do-list-198f2.firebaseio.com",
+    "project_id": "personal-to-do-list-198f2",
+    "storage_bucket": "personal-to-do-list-198f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125083517638:android:f93da94d39be81cc",
+        "android_client_info": {
+          "package_name": "yesh_agnihotri.android.personalto_dolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125083517638-p8ckfi8k2ttb1ae0dj4l0ha4mjjl6e37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnYsShvg7yOiq94GYduhmMVLKmg-s6Rec"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
